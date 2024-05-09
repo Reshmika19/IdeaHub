@@ -1,0 +1,38 @@
+/* about.css */
+
+/* Styling for the banner section */
+.banner-section img {
+    width: 100%;
+    height: auto;
+}
+
+/* Styling for the about section */
+.about-section {
+    padding: 50px; /* Add padding */
+    margin-top: 20px; /* Add margin */
+    margin-bottom: 20px; /* Add margin */
+    text-align: center; /* Center align content */
+}
+
+.section-heading {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.section-subheading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.about-description {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    text-align: left; /* Left align description */
+}
